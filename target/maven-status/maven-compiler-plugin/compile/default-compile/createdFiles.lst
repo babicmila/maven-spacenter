@@ -1,0 +1,8 @@
+tretman\TretmanDaoInterface.class
+tretman\Tretman.class
+kupon\Kupon.class
+kupon\KuponDaoInterface.class
+kupon\KuponDao.class
+com\babicmila\mavenp\Main.class
+tretman\TretmanDao.class
+com\babicmila\mavenp\HibernateUtil.class
