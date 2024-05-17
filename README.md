@@ -1,3 +1,3 @@
 # maven-spacenter
 
-Java Application for Spa Centre demonstrating working with JPA, Hibernate, MySQL, and Maven build tool.
+Simple Java Application for Spa Center demonstrating working with JPA, Hibernate, MySQL, and Maven build tool.
